@@ -1,7 +1,7 @@
 
 var c = document.getElementsByClassName('uiTextareaNoResize');
 var r = document.getElementById('u_0_x');
-var a = "Je suis un petit nigga.";
+var a = "J'te def ptite nigga.";
 
 function sendHapiness(chat, repondre, i)
 {
