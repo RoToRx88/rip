@@ -9,5 +9,5 @@ __Use it at your own risks__
 
 1. Just copy past it to your JS console when on the facebook page;
 2. Enjoy;
-3. Listen to your friends rage about what you do with what they share;
+3. Listen to your friends rage about what you do with what they shared;
 4. Repeat;
